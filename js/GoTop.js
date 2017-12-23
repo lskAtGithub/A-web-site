@@ -47,4 +47,6 @@ _GoTop = (function(){
 
 })()
 
-_GoTop.init($(".goTopSet"))
+
+
+module.exports = _GoTop;

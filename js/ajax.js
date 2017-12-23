@@ -93,6 +93,4 @@ _waterfallNew = (function () {
 
 // _waterfallNew.init($("#portfolio"))
 
-$(document).ready(function () {
-    _waterfallNew.init($("#portfolio"))
-});
+module.exports = _waterfallNew;

@@ -96,4 +96,5 @@ _Carousel = (function(){
 //new Carousel($(".carousel")[1])
 
 
-_Carousel.init($(".carousel"))
+module.exports = _Carousel;
+
